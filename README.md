@@ -24,11 +24,17 @@ Auto Viper is fast VIPER scaffolding for iOS using Xcode custom template
  2. Click new file...
  
  ![enter image description here](https://raw.githubusercontent.com/dhiyaulhaqZA/ios-xcode-auto-viper/master/Screenshot/ss1.png)
+ 
  3. Search autoviper
+ 
  ![enter image description here](https://raw.githubusercontent.com/dhiyaulhaqZA/ios-xcode-auto-viper/master/Screenshot/ss2.png)
+ 
  4. Type in your feature name
+ 
  ![enter image description here](https://raw.githubusercontent.com/dhiyaulhaqZA/ios-xcode-auto-viper/master/Screenshot/ss3.png)
+ 
  5. Type whatever you want, and yes... whatever, its mean you can type yihaa in that text field
+ 
  ![enter image description here](https://raw.githubusercontent.com/dhiyaulhaqZA/ios-xcode-auto-viper/master/Screenshot/ss4.png)
 
 6. And click Create
