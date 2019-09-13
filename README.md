@@ -40,5 +40,8 @@ Auto Viper is fast VIPER scaffolding for iOS using Xcode custom template
 6. And click Create
 
 **Done, GLHF**
+
+Please read [this article](https://medium.com/cr8resume/viper-architecture-for-ios-project-with-simple-demo-example-7a07321dbd29) as a reference
+
 ## 
 
