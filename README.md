@@ -22,6 +22,7 @@ Auto Viper is fast VIPER scaffolding for iOS using Xcode custom template
 
  1. Click right on group
  2. Click new file...
+ 
  ![enter image description here](https://raw.githubusercontent.com/dhiyaulhaqZA/ios-xcode-auto-viper/master/Screenshot/ss1.png)
  3. Search autoviper
  ![enter image description here](https://raw.githubusercontent.com/dhiyaulhaqZA/ios-xcode-auto-viper/master/Screenshot/ss2.png)
