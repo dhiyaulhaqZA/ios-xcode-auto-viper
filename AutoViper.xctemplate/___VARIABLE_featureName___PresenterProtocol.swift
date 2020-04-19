@@ -12,7 +12,7 @@ protocol ___VARIABLE_featureName___PresenterToViewProtocol: class {
 }
 
 protocol ___VARIABLE_featureName___PresenterToRouterProtocol: class {
-    static func createModule() -> ___VARIABLE_featureName___ViewController
+    static func createModule(param: ___VARIABLE_featureName___Param) -> ___VARIABLE_featureName___ViewController
 }
 
 protocol ___VARIABLE_featureName___PresenterToInteractorProtocol: class {
